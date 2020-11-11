@@ -37,3 +37,4 @@ D:\Users\jamielihyahoo\development\LaunchCode\CodingEvents\CodingEvents\obj\Debu
 D:\Users\jamielihyahoo\development\LaunchCode\CodingEvents\CodingEvents\obj\Debug\netcoreapp3.1\CodingEvents.csproj.CopyComplete
 D:\Users\jamielihyahoo\development\LaunchCode\CodingEvents\CodingEvents\obj\Debug\netcoreapp3.1\Razor\Views\Events\Index.cshtml.g.cs
 D:\Users\jamielihyahoo\development\LaunchCode\CodingEvents\CodingEvents\obj\Debug\netcoreapp3.1\Razor\Views\Events\Add.cshtml.g.cs
+D:\Users\jamielihyahoo\development\LaunchCode\CodingEvents\CodingEvents\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LinkListPartial.cshtml.g.cs
