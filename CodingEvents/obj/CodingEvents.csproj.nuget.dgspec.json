@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\CodingEvents\\CodingEvents\\CodingEvents.csproj": {}
+    "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\CodingEvents\\CodingEvents\\CodingEvents.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\CodingEvents\\CodingEvents\\CodingEvents.csproj": {
+    "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\CodingEvents\\CodingEvents\\CodingEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\CodingEvents\\CodingEvents\\CodingEvents.csproj",
+        "projectUniqueName": "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\CodingEvents\\CodingEvents\\CodingEvents.csproj",
         "projectName": "CodingEvents",
-        "projectPath": "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\CodingEvents\\CodingEvents\\CodingEvents.csproj",
-        "packagesPath": "C:\\Users\\jamielih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\CodingEvents\\CodingEvents\\obj\\",
+        "projectPath": "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\CodingEvents\\CodingEvents\\CodingEvents.csproj",
+        "packagesPath": "C:\\Users\\jamielihyahoo\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\CodingEvents\\CodingEvents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jamielih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jamielihyahoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
